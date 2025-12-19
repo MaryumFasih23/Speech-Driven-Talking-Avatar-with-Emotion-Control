@@ -58,6 +58,4 @@ The following files are required in the project directory to initialize the prep
 
 4. **Generate:** Click the "Generate" button. The system will process the inputs and display the rendered video directly in the notebook once complete.
 
-## Acknowledgments
 
-This project is built upon the **SadTalker** research and framework. Please refer to the original SadTalker repository for detailed licensing information and to cite the research appropriately.
